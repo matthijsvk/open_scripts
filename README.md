@@ -7,3 +7,4 @@
 - networkUsage: prints network usage (as max(up, down) during 5 seconds (modifyable in script) 
 - search-for-files: uses zenity to display a window with search results. For use if your file manager doesn't have a search function. I didn't write this, but I can't retrieve the source  
 - systemStats: some simple information about your system  
+- ufraw-batch: similar to multicore.sh, but specifically for converting RAW (ORF/DNG) to jpeg using ufraw
